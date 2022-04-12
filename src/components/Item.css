@@ -1,0 +1,10 @@
+.Item {
+    background-color: gray;
+    border: 1px solid gold;
+}
+.Food{
+    background-color: gold;
+}
+.snake{
+    background-color: rgb(23, 36, 15);
+}
